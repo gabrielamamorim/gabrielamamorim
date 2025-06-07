@@ -68,13 +68,13 @@ Atualmente focada em:
 ## 📂 Projetos em Destaque
 
 - 🎨 [WeatherSnap](https://github.com/gabrielamamorim/WeatherSnap): App de previsão do tempo com layout responsivo e temas dinâmicos
-- 📁 [WegOne](https://github.com/gabrielamamorim/WegOne): Sistema de operações com busca, filtros e organização visual
+- 📁 [WegOne](https://github.com/raquel1s/WegOne.git): Sistema de operações com busca, filtros e organização visual
 - 🎮 [Jogo da Velha](https://github.com/gabrielamamorim/Jogo-da-Velha): Projeto colaborativo com Flutter
 - ✅ [remix-task-list](https://github.com/gabrielamamorim/remix-task-list): Lista de tarefas com Remix e rotas assíncronas
 
 **Colaborações:**
-- 🤝 [goarrival](https://github.com/gabrielamamorim/goarrival)
-- 🤝 [WegOne](https://github.com/gabrielamamorim/WegOne)
+- 🤝 [goarrival](https://github.com/raquel1s/goarrival.git)
+- 🤝 [WegOne](https://github.com/raquel1s/WegOne.git)
 
 
 ---
