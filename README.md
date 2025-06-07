@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Gabriela Maciel Lopes de Amorim
 
-🎓 Estudante de Desenvolvimento de Sistemas  
+🎓 Estudante de Engenharia de Software 
 📍 Jaraguá do Sul - Santa Catarina  
 💻 Apaixonada por construir interfaces bonitas com HTML e CSS
 
