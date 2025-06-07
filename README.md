@@ -2,7 +2,7 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas  
 📍 Jaraguá do Sul - Santa Catarina  
-💻 Apaixonada por construir interfaces bonitas com HTML, CSS e Tailwind
+💻 Apaixonada por construir interfaces bonitas com HTML e CSS
 
 ---
 
