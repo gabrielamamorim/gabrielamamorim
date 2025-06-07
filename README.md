@@ -10,12 +10,14 @@
 
 Atualmente focada em:
 
-- 🎨 Desenvolvimento front-end com **HTML5**, **CSS3** e **TailwindCSS**, com foco em interfaces modernas e responsivas
-- ☕ Programação em **Java**, com ênfase em lógica, orientação a objetos e desenvolvimento de aplicações
-- 🌐 Desenvolvimento web com **JavaScript**, aplicando conceitos de DOM, eventos e interatividade
-- 🗄️ Manipulação de **bancos de dados relacionais** com SQL, utilizando ferramentas como MySQL Workbench
-- 🚧 Iniciando o aprendizado em frameworks e ferramentas como **Spring Boot**, **Remix** e **Flutter**
-- 🧠 Estudo contínuo de **estruturas de dados** e boas práticas de organização e legibilidade de código
+- 🎨 Criação de interfaces responsivas com **HTML5**, **CSS3** e **TailwindCSS**
+- ☕ Programação orientada a objetos com **Java**
+- 🌐 Desenvolvimento web com **JavaScript**
+- 🗄️ Modelagem e manipulação de dados com **SQL**
+- 📲 Iniciando com **Spring Boot**, **Remix** e **Flutter**
+- 📡 Estudo de **Node-RED**, **MQTT**, **ESP32** e **PlatformIO** em aplicações embarcadas
+- 🔗 Consumo e integração de **APIs REST**
+- 🧠 Aprimoramento em **estruturas de dados** e boas práticas de código
 
 ---
 
@@ -24,45 +26,69 @@ Atualmente focada em:
 **Principais habilidades:**  
 `HTML5` `CSS3` `TailwindCSS`
 
-**Outras Tecnologias:**
-`JavaScript` `Java` `C++`
+### Front-end:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Em aprendizado:**  
-`Remix` `Flutter` `SQL`
+### Back-end e mobile:
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)
 
-**Ferramentas e ambientes:**  
-`Visual Studio Code` `Git` `GitHub` `GitHub Desktop` `Figma`  
-`Postman` `MySQL Workbench` `Eclipse IDE` `IntelliJ IDEA`  
-`Arduino IDE` `Wokwi` `Tinkercad` `CLP Clic02 Edit`
+### Banco de Dados:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### Embarcados & IoT:
+![ESP32](https://img.shields.io/badge/ESP32-333333?logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F6821F?logo=platformio&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-00B894?logo=wokwi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
+
+### Ferramentas & IDEs:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?logo=mysql&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FF9700?logo=autodesk&logoColor=white)
+![Clic02](https://img.shields.io/badge/Clic02-A9A9A9?logo=siemens&logoColor=white)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-| Projeto | Descrição |
-|--------|-----------|
-| 🌦️ **WeatherSnap** | App de previsão do tempo com layout responsivo e temas dinâmicos |
-| 📁 **WegOne** | Sistema de operações com busca, filtros e organização em cards |
-| 🎮 **Jogo da Velha** | Projeto em Flutter com foco em lógica e interface |
-| ✅ **remix-task-list** | App de lista de tarefas com Remix e rotas assíncronas |
+- 🎨 [WeatherSnap](https://github.com/gabrielamamorim/WeatherSnap): App de previsão do tempo com layout responsivo e temas dinâmicos
+- 📁 [WegOne](https://github.com/gabrielamamorim/WegOne): Sistema de operações com busca, filtros e organização visual
+- 🎮 [Jogo da Velha](https://github.com/gabrielamamorim/Jogo-da-Velha): Projeto colaborativo com Flutter
+- ✅ [remix-task-list](https://github.com/gabrielamamorim/remix-task-list): Lista de tarefas com Remix e rotas assíncronas
 
-**Projetos colaborativos:**
-- 🤝 **goarrival**
-- 🤝 **wegone**
+**Colaborações:**
+- 🤝 [goarrival](https://github.com/gabrielamamorim/goarrival)
+- 🤝 [WegOne](https://github.com/gabrielamamorim/WegOne)
+
 
 ---
 
 ## 📈 GitHub Stats
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielamamorim&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamamorim&layout=compact&theme=radical)
+![Gabriela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielamamorim&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamamorim&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
 - 📍 Jaraguá do Sul - SC  
-- 📧 *(gabimaciellopesamorim@gmail.com)*  
+- 📧 Email: *(gabimaciellopesamorim@gmail.com)*  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gabriela-maciel-lopes-de-amorim-8b1522258/)
 
 ---
